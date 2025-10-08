@@ -1,0 +1,19 @@
+{
+  "dev": {
+    "aws_region": "sa-east-1",
+    "django_settings": "api.settings",
+    "exclude": ["boto3", "dateutil", "botocore", "s3transfer", "concurrent"],
+    "profile_name": "cachorro-loko",
+    "project_name": "api",
+    "runtime": "python3.11",
+    "s3_bucket": "zappa-cachorro-loko-backend",
+    "environment_variables": {
+      "DB_ENGINE": "django.db.backends.postgresql",
+      "DB_NAME": "neondb",
+      "DB_USER": "neondb_owner",
+      "DB_PASSWORD": "npg_UE8mhVOgqDZ2",
+      "DB_HOST": "ep-icy-fire-achf0hnj-pooler.sa-east-1.aws.neon.tech",
+      "DB_PORT": "5432"
+    }
+  }
+}
