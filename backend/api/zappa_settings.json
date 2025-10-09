@@ -3,7 +3,6 @@
     "aws_region": "sa-east-1",
     "django_settings": "api.settings",
     "exclude": ["boto3", "dateutil", "botocore", "s3transfer", "concurrent"],
-    "profile_name": "cachorro-loko",
     "project_name": "api",
     "runtime": "python3.11",
     "s3_bucket": "zappa-cachorro-loko-backend",
