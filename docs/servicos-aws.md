@@ -260,3 +260,5 @@ DEBUG = False  # Desabilitar em produção
 - [S3 Documentation](https://docs.aws.amazon.com/s3/)
 - [IAM Documentation](https://docs.aws.amazon.com/iam/)
 - [Zappa Documentation](https://github.com/Miserlou/Zappa)
+
+

@@ -220,3 +220,4 @@ docker-compose logs pgadmin
 - [Django Database Configuration](https://docs.djangoproject.com/en/stable/ref/settings/#databases)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [Django REST Framework](https://www.django-rest-framework.org/)
+
